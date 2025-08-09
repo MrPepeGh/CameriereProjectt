@@ -14,7 +14,7 @@ Cameriere (que significa "camarero" en italiano) busca reducir la necesidad de i
 - Integrar la solución con otros sistemas del restaurante (cocina, punto de venta, inventario, etc.).
 
 ## 🛠️ Tecnologías utilizadas
-
+  **LINK:** https://mrpepegh.github.io/CameriereProjectt/
 - **Frontend**:(HTML, JavaScript, CSS)
 - **Backend**:(Python)
 - **Base de datos**: (SQL)
